@@ -6,10 +6,10 @@
         id        = "com.infopark.onlineabonelik"
         version   = "1.0.0">
 
-    <name>CLK Boğaziçi Mobil İşlemler</name>
+    <name>Saha Satış Sistemi</name>
 
     <description>
-        Online Abonelik, Borç Sorgulama, Fatura Ödeme, Tüketim Sorgulama v.b. pek çok işlem
+        Saha Satış Sistemi
     </description>
 
     <author href="http://www.infopark.com.tr" email="bilgi@infopark.com.tr">
